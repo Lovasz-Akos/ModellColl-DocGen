@@ -1,0 +1,27 @@
+GotoMoCap QNSZT Modellkollekció tartalma
+
+Név: Mesegomba_1: 57128 polygon - 372 háromszög
+Név: Mesegomba_2: 90772 polygon - 20906 háromszög
+Név: Mesegomba_3: 89939 polygon - 17062 háromszög
+Név: Varázsvirág_10: 36980 polygon - 5536 háromszög
+Név: Bambusz_erdo: 245932 polygon - 21182 háromszög
+Név: Varázskürtok: 79103 polygon - 6736 háromszög
+Név: Bambusz_erdo_2: 113857 polygon - 52 háromszög
+Név: Mesegomba_4: 38768 polygon - 16 háromszög
+Név: Tünde_kehely_4: 87370 polygon - 1731 háromszög
+Név: Tünde_gömbök: 123384 polygon - 1449 háromszög
+Név: Kaktusz: 357175 polygon - 42374 háromszög
+Név: Varázsvirág_1: 98878 polygon - 1340 háromszög
+Név: Varázsvirág_2: 200144 polygon
+Név: Varázsvirág_3: 98632 polygon - 344 háromszög
+Név: Varázsvirág_4: 40908 polygon - 876 háromszög
+Név: Tünde_kehely_1: 42745 polygon - 1773 háromszög
+Név: Tünde_kehely_2: 86895 polygon - 3351 háromszög
+Név: Tünde_kehely_3: 42697 polygon - 2958 háromszög
+Név: Varázsvirág_5: 829765 polygon - 83366 háromszög
+Név: Varázsvirág_6: 29747 polygon - 11988 háromszög
+Név: Varázsvirág_7: 67994 polygon - 262 háromszög
+Név: Tünde_kiköto: 198256 polygon - 5476 háromszög
+Név: Varázsvirág_8: 102130 polygon - 15128 háromszög
+Név: Varázsvirág_9: 509082 polygon - 3360 háromszög
+Név: Mesegomba_5: 75053 polygon - 7308 háromszög

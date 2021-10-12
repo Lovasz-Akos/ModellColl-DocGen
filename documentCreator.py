@@ -1,6 +1,8 @@
 from os import read
 from pprint import pprint
 
+docTitle = "GotoMoCap QNSZT Modellkollekció tartalma\n\n"
+
 with open("objExport.obj",'r') as fi:
     id = []
     for ln in fi:
@@ -18,7 +20,7 @@ for ln in id:
 
 
 with open('docExport.txt', 'w', encoding='utf8') as f:
-    f.write("GotoMoCap QNSZT Modellkollekció tartalma\n\n")
+    f.write(docTitle)
     for item in range(len(finalArray)):
         if item % 2 == 0:
             f.write("%s: " % finalArray[item])
