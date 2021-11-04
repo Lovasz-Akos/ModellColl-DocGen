@@ -1,5 +1,4 @@
 from os import read
-from pprint import pprint
 
 docTitle = "GotoMoCap QNSZT Modellkollekció tartalma\n\n"
 
